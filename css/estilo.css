@@ -1,0 +1,10 @@
+#contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contenido{
+    text-align: center;
+    display: block; 
+}
+h1{color: black;}
